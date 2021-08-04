@@ -9,6 +9,10 @@ class SideMenu extends React.Component {
             <div className="side-menu">
                 <Image src="wilter-text.png" className="logo-image" />
 
+                <a href="https://distrokid.com/hyperfollow/wilter2/havent-been" className="menu-item">
+                    <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14"/></span>
+                    PRESAVE
+                </a>
                 <a href="https://open.spotify.com/artist/2Dhzt5rI1go7tAIIlTAz7R?si=ll-niLJZTlaUJyZDuMK58A&dl_branch=1" className="menu-item">
                     <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14"/></span>
                     SPOTIFY

@@ -1,0 +1,74 @@
+.side-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: calc(150px + 5vw) ;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.logo-image {
+    width: 80px;
+    margin-top: 20%;
+    margin-left: 10%;
+    margin-bottom: 25px;
+}
+
+.menu-item {
+    font-size: calc(11px + 1vw);
+    font-weight: 500;
+    margin-left: 15%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    color: aliceblue;
+    text-decoration: none;
+
+}
+
+.menu-item-icon {
+    margin-right: 5px;
+}
+
+
+.bottom-text {
+    font-size: calc(10px + 0.2vw);
+    position: fixed;
+    bottom: 50px;
+    width: calc(150px + 3vw);
+    margin-left: calc(20px + 1vw);
+    font-weight: 300;
+   
+}
+
+.contact {
+    font-size: calc(10px + 0.2vw);
+    color: aliceblue;
+    position: fixed;
+    bottom: 25px;
+    width: calc(150px + 3vw);
+    margin-left: calc(20px + 1vw);
+    font-weight: 300;
+}
+
+
+a:link {
+    color: aliceblue
+}
+  
+  /* visited link */
+a:visited {
+    color: aliceblue;
+}
+  
+  /* mouse over link */
+  a:hover {
+    color: #cad7e3;
+  }
+  
+  /* selected link */
+  a:active {
+    color: aliceblue;
+  }

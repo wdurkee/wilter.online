@@ -8,7 +8,7 @@ class SideMenu extends React.Component {
         return ( 
             <div className="side-menu">
                 <Image src="wilter-text.png" className="logo-image" />
-                <a href="https://wilter.world" className="menu-item">
+                <a href="https://wilter.8thwall.app/haventbeen/" className="menu-item">
                     <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14"/></span>
                     WORLD
                 </a>

@@ -8,17 +8,17 @@ class SideMenu extends React.Component {
         return ( 
             <div className="side-menu">
                 <Image src="wilter-text.png" className="logo-image" />
-                <a href="https://wilter.8thwall.app/haventbeen/" className="menu-item">
+                <a href="https://wilter.world/" className="menu-item">
                     <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14"/></span>
                     WORLD
                 </a>
-                <a href="https://distrokid.com/hyperfollow/wilter2/havent-been" className="menu-item">
+                <a href="https://lnk.to/havent-been" className="menu-item">
                     <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14"/></span>
-                    PRESAVE
+                    HAVENT BEEN
                 </a>
-                <a href="https://open.spotify.com/artist/2Dhzt5rI1go7tAIIlTAz7R?si=ll-niLJZTlaUJyZDuMK58A&dl_branch=1" className="menu-item">
+                <a href="https://lnk.to/solosolong" className="menu-item">
                     <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14"/></span>
-                    SPOTIFY
+                    SOLO/SOLONG
                 </a>
                 <a href="https://wilter.bandcamp.com/releases" className="menu-item">
                     <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14"/></span>

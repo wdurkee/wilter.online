@@ -40,14 +40,14 @@ class SideMenu extends React.Component {
                 <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14" /></span>
                 YOUTUBE
             </a>
-            <a href="https://wilter.bandcamp.com/releases" className="menu-item" >
+            <a href="https://www.tiktok.com/@_wilter" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"
                         alt=""
                         height="14"
                         width="14" />
                 </span>
-                BANDCAMP
+                TIK TOK
             </a>
             <a href="https://www.instagram.com/wilt.er/"
                 className="menu-item" >

@@ -25,7 +25,7 @@ class SideMenu extends React.Component {
                         height="14"
                         width="14" />
                 </span>
-                PRE SAVE
+                PRESAVE
             </a>
             <a href="https://open.spotify.com/artist/2Dhzt5rI1go7tAIIlTAz7R?si=EuRX7ixfRpaHc5D3xp1CBQ" className="menu-item" >
                 <span className="menu-item-icon" >

@@ -18,7 +18,7 @@ class SideMenu extends React.Component {
                 </span>
                 WORLD
             </a> */}
-            <a href="https://distrokid.com/hyperfollow/wilter2/not-looking-out-the-window-anymore" className="menu-item" >
+            {/* <a href="https://distrokid.com/hyperfollow/wilter2/not-looking-out-the-window-anymore" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"
                         alt=""
@@ -26,7 +26,7 @@ class SideMenu extends React.Component {
                         width="14" />
                 </span>
                 PRESAVE
-            </a>
+            </a> */}
             <a href="https://open.spotify.com/artist/2Dhzt5rI1go7tAIIlTAz7R?si=EuRX7ixfRpaHc5D3xp1CBQ" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"

@@ -9,16 +9,16 @@ class SideMenu extends React.Component {
     render() {
         return (<div className="side-menu" >
             <Image src="wilter-text.png" className="logo-image" />
-            {/* <a href="http://bit.ly/3yKhLss" className="menu-item" >
+            <a href="https://dice.fm/partner/dice/event/pknrk-makeoutmusic-presents-wilter-12th-may-baader-house-los-angeles-tickets" className="menu-item" >
                 <span className="menu-item-icon" >
                     < img src="plus.png"
                         alt=""
                         height="14"
                         width="14" />
                 </span>
-                WORLD
-            </a> */}
-            {/* <a href="https://distrokid.com/hyperfollow/wilter2/not-looking-out-the-window-anymore" className="menu-item" >
+                EP RELEASE SHOW TICKETS
+            </a>
+            <a href="https://wilter.ffm.to/floating.OIS" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"
                         alt=""
@@ -26,17 +26,17 @@ class SideMenu extends React.Component {
                         width="14" />
                 </span>
                 PRESAVE
-            </a> */}
-            <a href="https://open.spotify.com/artist/2Dhzt5rI1go7tAIIlTAz7R?si=EuRX7ixfRpaHc5D3xp1CBQ" className="menu-item" >
+            </a>
+            <a href="https://wilter.ffm.to/music" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"
                         alt=""
                         height="14"
                         width="14" />
                 </span>
-                SPOTIFY
+                LISTEN
             </a>
-            <a href="https://music.apple.com/us/artist/wilter/1562948458" className="menu-item" >
+            {/* <a href="https://music.apple.com/us/artist/wilter/1562948458" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"
                         alt=""
@@ -44,7 +44,7 @@ class SideMenu extends React.Component {
                         width="14" />
                 </span>
                 APPLE MUSIC
-            </a>
+            </a> */}
             <a href="https://www.youtube.com/channel/UCPfgqlNC3FMaN1JsmsMAJPQ" className="menu-item">
                 <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14" /></span>
                 YOUTUBE

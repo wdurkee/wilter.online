@@ -18,7 +18,7 @@ class SideMenu extends React.Component {
                 </span>
                 EP RELEASE SHOW TICKETS
             </a>
-            <a href="https://wilter.ffm.to/floating.OIS" className="menu-item" >
+            <a href="https://wilter.ffm.to/allthisleaving.OIS" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"
                         alt=""

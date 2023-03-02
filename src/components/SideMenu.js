@@ -36,15 +36,15 @@ class SideMenu extends React.Component {
                 </span>
                 LISTEN
             </a>
-            {/* <a href="https://music.apple.com/us/artist/wilter/1562948458" className="menu-item" >
+            <a href="https://shop.wilter.online" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"
                         alt=""
                         height="14"
                         width="14" />
                 </span>
-                APPLE MUSIC
-            </a> */}
+                SHOP
+            </a>
             <a href="https://www.youtube.com/channel/UCPfgqlNC3FMaN1JsmsMAJPQ" className="menu-item">
                 <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14" /></span>
                 YOUTUBE

@@ -36,7 +36,7 @@ class SideMenu extends React.Component {
                 </span>
                 LISTEN
             </a>
-            <a href="https://shop.wilter.online" className="menu-item" >
+        {/*<a href="https://shop.wilter.online" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"
                         alt=""
@@ -44,7 +44,7 @@ class SideMenu extends React.Component {
                         width="14" />
                 </span>
                 SHOP
-            </a>
+            </a>*/}
             <a href="https://www.youtube.com/channel/UCPfgqlNC3FMaN1JsmsMAJPQ" className="menu-item">
                 <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14" /></span>
                 YOUTUBE

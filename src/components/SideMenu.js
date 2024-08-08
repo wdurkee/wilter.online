@@ -9,16 +9,16 @@ class SideMenu extends React.Component {
     render() {
         return (<div className="side-menu" >
             <Image src="wilter-text.png" className="logo-image" />
-            <a href="https://link.dice.fm/b0432a0221a7?dice_id=b0432a0221a7" className="menu-item" >
+            <a href="https://new.hotelcafe.com/event/indiesauce-presents-micelf-rose-paradise-and-wilter/" className="menu-item" >
                 <span className="menu-item-icon" >
                     < img src="plus.png"
                         alt=""
                         height="14"
                         width="14" />
                 </span>
-                EP RELEASE SHOW TICKETS
+                SHOWS
             </a>
-          <a href="https://wilter.ffm.to/chaser.OIS" className="menu-item" >
+        {/*<a href="https://wilter.ffm.to/chaser.OIS" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"
                         alt=""
@@ -26,7 +26,7 @@ class SideMenu extends React.Component {
                         width="14" />
                 </span>
                 PRESAVE
-            </a> 
+            </a> */}
             <a href="https://wilter.ffm.to/music" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"
@@ -49,7 +49,7 @@ class SideMenu extends React.Component {
                 <span className="menu-item-icon"><img src="plus.png" alt="" height="14" width="14" /></span>
                 YOUTUBE
             </a>
-            <a href="https://www.tiktok.com/@_wilter" className="menu-item" >
+        {/*<a href="https://www.tiktok.com/@_wilter" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"
                         alt=""
@@ -67,7 +67,7 @@ class SideMenu extends React.Component {
                         width="14" />
                 </span>
                 INSTAGRAM
-            </a>
+            </a>*/}
             <a href="https://linktr.ee/wilt.er" className="menu-item" >
                 <span className="menu-item-icon" >
                     < img src="plus.png"

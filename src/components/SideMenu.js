@@ -8,7 +8,7 @@ class SideMenu extends React.Component {
     state = {}
     render() {
         return (<div className="side-menu" >
-            <Image src="wilter-text.png" className="logo-image" />
+            {/* <Image src="wilter-text.png" className="logo-image" />
             <a href="https://new.hotelcafe.com/event/indiesauce-presents-micelf-rose-paradise-and-wilter/" className="menu-item" >
                 <span className="menu-item-icon" >
                     < img src="plus.png"
@@ -17,7 +17,7 @@ class SideMenu extends React.Component {
                         width="14" />
                 </span>
                 SHOWS
-            </a>
+            </a>*/}
         {/*<a href="https://wilter.ffm.to/chaser.OIS" className="menu-item" >
                 <span className="menu-item-icon" >
                     <img src="plus.png"

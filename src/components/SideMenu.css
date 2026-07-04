@@ -45,7 +45,7 @@
 
 .contact {
     font-size: calc(10px + 0.2vw);
-    color: aliceblue;
+    color: #000000;
     position: fixed;
     bottom: 25px;
     width: calc(150px + 3vw);
@@ -55,7 +55,7 @@
 
 
 a:link {
-    color: aliceblue
+    color: #000000;
 }
   
   /* visited link */
@@ -65,10 +65,10 @@ a:visited {
   
   /* mouse over link */
   a:hover {
-    color: #cad7e3;
+    color: #0000FF;
   }
   
   /* selected link */
   a:active {
-    color: aliceblue;
+    color: #0000FF;
   }
